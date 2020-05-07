@@ -2,5 +2,7 @@
 
 Shared todo list. 
 
-- [ ] Read Empirical Process
+Add To do list
+
+- [ ] Something
 - [ ] Something else
