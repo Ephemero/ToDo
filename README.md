@@ -1,4 +1,4 @@
 # ToDo
 
 Shared todo list. 
-- [] Read Empirical Process
+-[x] Read Empirical Process
